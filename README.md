@@ -1,1 +1,1 @@
-# GuiGlpi
+# PSE  -  Passe de saída eletrônico
